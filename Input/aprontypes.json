@@ -20,6 +20,186 @@
         }
     },
     {
+        "id": "54x98-em-wms",
+        "height": 5.4,
+        "width": 9.8,
+        "image": "54x98-em-wms.png",
+        "qr": {
+            "xpos": 6.25,
+            "ypos": 1.95,
+            "width": 3,
+            "height": 3
+        },
+        "text": {
+            "template": "{manufacturer} {year} {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 5.2,
+            "width": 6,
+            "height": 2
+        }
+    },
+    {
+        "id": "57x104-zaccaria",
+        "height": 5.7,
+        "width": 10.4,
+        "image": "57x104-zaccaria.png",
+        "qr": {
+            "xpos": 6.8,
+            "ypos": 2.1,
+            "width": 3,
+            "height": 3
+        },
+        "text": {
+            "template": "{manufacturer} {year} {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 5.3,
+            "width": 6,
+            "height": 2
+        }
+    },
+    {
+        "id": "57x154-gottlieb",
+        "height": 5.7,
+        "width": 15.4,
+        "image": "57x154-gottlieb.png",
+        "qr": {
+            "xpos": 11.8,
+            "ypos": 2.1,
+            "width": 3,
+            "height": 3
+        },
+        "text": {
+            "template": "{manufacturer} {year} {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 5.3,
+            "width": 6,
+            "height": 2
+        }
+    },
+    {
+        "id": "75x138mm-sega",
+        "height": 7.5,
+        "width": 13.8,
+        "image": "75x138mm-sega.png",
+        "qr": {
+            "xpos": 9.52,
+            "ypos": 3.23,
+            "width": 3.8,
+            "height": 3.8
+        },
+        "text": {
+            "template": "{manufacturer} {year} {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 7.1,
+            "width": 6,
+            "height": 2
+        }
+    },
+    {
+        "id": "75x140-stern-modern",
+        "height": 7.5,
+        "width": 14.0,
+        "image": "75x140-stern-modern.png",
+        "qr": {
+            "xpos": 9.8,
+            "ypos": 3.23,
+            "width": 3.8,
+            "height": 3.8
+        },
+        "text": {
+            "template": "{manufacturer} {year} {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 7.1,
+            "width": 6,
+            "height": 2
+        }
+    },
+    {
+        "id": "76x140-data-east-game-plan",
+        "height": 7.6,
+        "width": 14.0,
+        "image": "76x140-data-east-game-plan.png",
+        "qr": {
+            "xpos": 9.8,
+            "ypos": 3.23,
+            "width": 3.8,
+            "height": 3.8
+        },
+        "text": {
+            "template": "{manufacturer} {year} {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 7.1,
+            "width": 6,
+            "height": 2
+        }
+    },
+    {
+        "id": "77x140-stern-classic",
+        "height": 7.7,
+        "width": 14.0,
+        "image": "77x140-stern-classic.png",
+        "qr": {
+            "xpos": 9.8,
+            "ypos": 3.23,
+            "width": 3.8,
+            "height": 3.8
+        },
+        "text": {
+            "template": "{manufacturer} {year} {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 7.1,
+            "width": 6,
+            "height": 2
+        }
+    },
+    {
+        "id": "83x140-ss-bally",
+        "height": 8.3,
+        "width": 14.0,
+        "image": "83x140-ss-bally.png",
+        "qr": {
+            "xpos": 9.8,
+            "ypos": 3.23,
+            "width": 3.8,
+            "height": 3.8
+        },
+        "text": {
+            "template": "{manufacturer} {year} {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 7.1,
+            "width": 6,
+            "height": 2
+        }
+    },
+    {
+        "id": "83x143-capcom",
+        "height": 8.3,
+        "width": 14.3,
+        "image": "83x143-capcom.png",
+        "qr": {
+            "xpos": 9.8,
+            "ypos": 3.23,
+            "width": 3.8,
+            "height": 3.8
+        },
+        "text": {
+            "template": "{manufacturer} {year} {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 7.1,
+            "width": 6,
+            "height": 2
+        }
+    },
+    {
         "id": "83x154-wms-jjp",
         "height": 8.3,
         "width": 15.4,

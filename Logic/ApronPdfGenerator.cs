@@ -49,8 +49,13 @@ public class ApronPdfGenerator
 
         foreach (var apron in aprons)
         {
+            var apronType = apronTypes.FirstOrDefault(a => a.Id == apron.ApronCardSize);
+            if (apronType == null)
+            {
+                Console.WriteLine($"Apron type {apron.ApronCardSize} not found for apron {apron.Name}.");
+                continue;
+            }
 
-            var apronType = apronTypes.First(a => a.Id == apron.ApronCardSize);
             if ((float)(cursor.y - (int)(apronType.Height * Cm)) < margin.y)
             {
                 document.Add(new AreaBreak(AreaBreakType.NEXT_PAGE));
@@ -68,7 +73,7 @@ public class ApronPdfGenerator
         var image = BackgroundImages.FirstOrDefault(i => i.Key == apronType.Image).Value;
         if (image == null)
         {
-            Console.WriteLine($"Image {apronType.Image} not found");
+            Console.WriteLine($"Image {apronType.Image} not found (id = {apronType.Id}).");
             return cursor;
         }
         float yPos = (float)(cursor.y - (int)(apronType.Height * Cm));
@@ -123,6 +128,15 @@ public class ApronPdfGenerator
         var contentHeight = CalculateHeightOfElement(pContent, width, document.GetRenderer());
         pContent.SetFixedPosition(xPos, yPos - contentHeight - headerHeight, width);
         document.Add(pContent);
+
+        var dev = new Paragraph($"{apron.Id}\n{apron.ApronCardSize}")
+            .SetFont(FontBold)
+            .SetFontSize(apronType.Text.FontSize);
+        var devHeight = CalculateHeightOfElement(pHeader, width, document.GetRenderer());
+        dev.SetFixedPosition(xPos + apronType.Width * Cm + 10, yPos - 2 * Cm, width);
+        document.Add(dev);
+
+
     }
 
     public float CalculateHeightOfElement(IElement element, float width, IRenderer rootRender)
