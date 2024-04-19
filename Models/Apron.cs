@@ -7,12 +7,13 @@ public class Apron
     public int Id { get; set; }
     [JsonPropertyName("name")]
     public string Name { get; set; } = default!;
+    public string Manufacturer { get; set; } = default!;
     [JsonPropertyName("year")]
     public int Year { get; set; }
     [JsonPropertyName("type")]
     public string MachineTech { get; set; } = default!;
     [JsonPropertyName("apronCardSize")]
-    public ApronSize Size { get; set; }
+    public string ApronCardSize { get; set; } = default!;
     [JsonPropertyName("qrCode")]
     public string QrCode { get; set; } = default!;
 }

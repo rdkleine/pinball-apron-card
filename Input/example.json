@@ -1,11 +1,74 @@
 [
     {
-        "id": 1,
+        "id": 2077,
         "name": "Big Day",
         "manufacturer": "Bally",
         "year": 1964,
-        "type": "EM",
+        "type": "Electromechanisch",
         "apronCardSize": "38x96-em-bally",
+        "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 2058,
+        "name": "Boomerang",
+        "manufacturer": "Bally",
+        "year": 1974,
+        "type": "Elektromechanisch",
+        "apronCardSize": "38x96-em-bally",
+        "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 46,
+        "name": "Bow and Arrow",
+        "manufacturer": "Bally",
+        "year": 1974,
+        "type": "Elektromechanisch",
+        "apronCardSize": "38x96-em-bally",
+        "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 2082,
+        "name": "Aladdin's Arabian Nights",
+        "manufacturer": "WA Pinball",
+        "year": 2020,
+        "type": "Dot matrix",
+        "apronCardSize": "83x154-wms-jjp",
+        "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 2007,
+        "name": "Alien Poker",
+        "manufacturer": "Williams",
+        "year": 1980,
+        "type": "Solid State",
+        "apronCardSize": "83x154-wms-jjp",
+        "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 4,
+        "name": "Attack from Mars",
+        "manufacturer": "Bally",
+        "year": 1995,
+        "type": "Dot Matrix",
+        "apronCardSize": "83x154-wms-jjp",
+        "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 56,
+        "name": "Black Knight",
+        "manufacturer": "Williams",
+        "year": 1980,
+        "type": "Solid State",
+        "apronCardSize": "83x154-wms-jjp",
+        "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 2005,
+        "name": "Black Knight 2000",
+        "manufacturer": "Williams",
+        "year": 1989,
+        "type": "Alfanumeriek",
+        "apronCardSize": "83x154-wms-jjp",
         "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
     },
     {
@@ -18,17 +81,35 @@
         "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
     },
     {
-        "id": 65,
-        "name": "Firepower",
-        "manufacturer": "Williams",
-        "year": 1980,
-        "type": "Solid State",
+        "id": 111,
+        "name": "Cirqus Voltaire",
+        "manufacturer": "Bally",
+        "year": 1997,
+        "type": "Dot Matrix",
         "apronCardSize": "83x154-wms-jjp",
         "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
     },
     {
-        "id": 44,
-        "name": "World Cup Soccer",
+        "id": 90,
+        "name": "Comet",
+        "manufacturer": "Williams",
+        "year": 1985,
+        "type": "Alfanumeriek",
+        "apronCardSize": "83x154-wms-jjp",
+        "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 8,
+        "name": "Congo",
+        "manufacturer": "Williams",
+        "year": 1995,
+        "type": "Dot Matrix",
+        "apronCardSize": "83x154-wms-jjp",
+        "qrCode": "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKUAAAClCAIAAACySaqNAAAABnRSTlMA\/wD\/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADGUlEQVR4nO3dS27kMAwA0fFg7n\/lnr0WRBiSktxVb5tfIwUBhCzbz+fz+SOMv6c\/gLayN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/lV++Hmers8RWw7ZxX83\/ub4vF7qN6d+tlHlyKHrm8XeLPZmsTdLaV5bNN66UJl94gEt\/mpqIou\/+ZL\/xsL1zWJvFnuz2Julc15bpKaMO29TTQ1oqV8Vm\/tvuL5Z7M1ibxZ7swzOa9ukppvUpdVF4\/h2iuubxd4s9maxN8sr57XUJc7KYbfv4\/pmsTeLvVnszTI4r81tP1VOqJ26o+CSzTjXN4u9WezNYm+WznntCzanTh1Y28b1zWJvFnuz2JvluWTfp2Ju26uyGXcn1zeLvVnszWJvlsHnrzVeW6w8OaNxnys1oFUuyzZ+jIXrm8XeLPZmsTfL4P5a40TWeGDt1Nw094zfFNc3i71Z7M1ib5Z959carzze+VyNuWf8NnJ9s9ibxd4s9ma5ZX9tse2ZHI0vNKjMXNsOyrm+WezNYm8We7OU5rXKZDR3rGzuTQLbJtDUr0pxfbPYm8XeLPZmueV5uZW56dTptsbbDyrfnOL6ZrE3i71Z7M2y73rotv21+GN8wR+qcH2z2JvF3iz2ZnnH\/lrjftPc9d\/GM3fur6mHvVnszWJvlsHza3MnthpP9m87v5bi\/pp62JvF3iz2Znnl+w1OjX6n5sRGrm8We7PYm8XeLIPvN2i0TDen7hmIXTKRxVzfLPZmsTeLvVk6z6\/NzT6Vr26bm17xugPXN4u9WezNYm+WwfsN5p6DVvnZxtlnbnvR+w3Uw94s9maxN8st94embHvwWfx3516kEH\/V\/TX9lL1Z7M1ib5ZXzmuxuVcHXPIG+wrXN4u9WezNYm+WwXnt1JN4448xd3NC\/Ay12LY7N1zfLPZmsTeLvVk657VtQ0fKqZecNt5+4PVQ\/ZK9WezNYm+WVz5\/Tb\/m+maxN4u9WezNYm8We7PYm8XeLPZmsTeLvVnszWJvFnuz2JvF3iz2ZrE3i71Z\/gNq\/G9aJEEq6gAAAABJRU5ErkJggg=="
+    },
+    {
+        "id": 9,
+        "name": "Corvette",
         "manufacturer": "Bally",
         "year": 1994,
         "type": "Dot Matrix",

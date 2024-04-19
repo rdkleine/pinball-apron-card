@@ -1,0 +1,42 @@
+[
+    {
+        "id": "38x96-em-bally",
+        "height": 3.8,
+        "width": 9.6,
+        "image": "38x96-em-bally.png",
+        "qr": {
+            "xpos": 6.25,
+            "ypos": 0.42,
+            "width": 3,
+            "height": 3
+        },
+        "text": {
+            "template": "{manufacturer} {year} {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 3.8,
+            "width": 6,
+            "height": 2
+        }
+    },
+    {
+        "id": "83x154-wms-jjp",
+        "height": 8.3,
+        "width": 15.4,
+        "image": "83x154-wms-jjp.png",
+        "qr": {
+            "xpos": 10.65,
+            "ypos": 3.62,
+            "width": 4,
+            "height": 4
+        },
+        "text": {
+            "template": "Fabrikant: {manufacturer} | Bouwjaar: {year} | Type: {tech}",
+            "fontsize": 12,
+            "xpos": 0.65,
+            "ypos": 7.8,
+            "width": 10,
+            "height": 4.2
+        }
+    }
+]
