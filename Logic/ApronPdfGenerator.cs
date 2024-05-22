@@ -19,6 +19,7 @@ public class ApronPdfGenerator
     private const float Cm = 28.35f;
     private Point margin = new Point((int)(1f * Cm), (int)(1f * Cm));
     private List<KeyValuePair<string, Image>> BackgroundImages = new List<KeyValuePair<string, Image>>();
+    private List<KeyValuePair<string, Image>> LogoImages = new List<KeyValuePair<string, Image>>();
     private PdfFont FontBold = PdfFontFactory.CreateFont("./fonts/Futura Round Medium.ttf", PdfEncodings.WINANSI, PdfFontFactory.EmbeddingStrategy.PREFER_EMBEDDED);
     private PdfFont FontLight = PdfFontFactory.CreateFont("./fonts/Futura Round Light.ttf", PdfEncodings.WINANSI, PdfFontFactory.EmbeddingStrategy.PREFER_EMBEDDED);
 
@@ -27,6 +28,7 @@ public class ApronPdfGenerator
         var aprons = LoadJson<Apron>("./Input/example.json");
         var apronTypes = LoadJson<ApronType>("./Input/aprontypes.json");
         BackgroundImages = LoadBackgroundImages();
+        LogoImages = LoadLogoImages();
         Print(aprons!, apronTypes);
     }
 
@@ -39,6 +41,13 @@ public class ApronPdfGenerator
             let imageData = ImageDataFactory.Create(image)
             let img = new Image(imageData)
             select new KeyValuePair<string, Image>(name, img)).ToList();
+
+    private static List<KeyValuePair<string, Image>> LoadLogoImages()
+        => (from image in Directory.GetFiles("./images", "logo_*.jpg")
+            let name = System.IO.Path.GetFileName(image)
+            let imageData = ImageDataFactory.Create(image)
+            let img = new Image(imageData)
+            select new KeyValuePair<string, Image>(name.Replace("logo_", "").Replace(".jpg", ""), img)).ToList();
 
     private void Print(List<Apron> aprons, List<ApronType> apronTypes)
     {
@@ -82,6 +91,19 @@ public class ApronPdfGenerator
         image.ScaleToFit(apronType.Width * Cm, apronType.Height * Cm);
         image.SetFixedPosition((float)cursor.x, yPos);
         document.Add(image);
+
+        // Add logo to document
+        var m = apronType.Manufacturer.Where(m => m.Name == apron.Manufacturer).FirstOrDefault();
+        if (m != null)
+        {
+            var logo = LogoImages.FirstOrDefault(i => i.Key.ToLower() == apron.Manufacturer.ToLower()).Value;
+            if (logo != null)
+            {
+                logo.ScaleToFit(m.Width * Cm, m.Height * Cm);
+                logo.SetFixedPosition((float)cursor.x + m.Xpos * Cm, yPos + m.Ypos * Cm);
+                document.Add(logo);
+            }
+        }
 
         AddHeaderAndContentText(document, new Point(margin.x, yPos), apron, apronType);
 

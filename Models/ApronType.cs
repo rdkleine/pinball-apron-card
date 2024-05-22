@@ -10,6 +10,7 @@ namespace PinballApronCard.Models
         public string Image { get; set; } = default!;
         public Element Qr { get; set; } = default!;
         public TextElement Text { get; set; } = default!;
+        public List<ManufacturerElement> Manufacturer { get; set; } = default!;
 
         public class Element
         {
@@ -23,6 +24,12 @@ namespace PinballApronCard.Models
         {
             public int FontSize { get; set; }
             public string Template { get; set; } = default!;
+        }
+
+        public class ManufacturerElement : Element
+        {
+            public string Name { get; set; } = default!;
+            public string Logo { get; set; } = default!;
         }
     }
 

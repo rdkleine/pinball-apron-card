@@ -17,7 +17,23 @@
             "ypos": 3.8,
             "width": 6,
             "height": 2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "Bally",
+                "xpos": 2.9,
+                "ypos": 0.3,
+                "width": 2.07,
+                "height": 1.09
+            },
+            {
+                "name": "Williams",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            }
+        ]
     },
     {
         "id": "54x98-em-wms",
@@ -37,7 +53,16 @@
             "ypos": 5.2,
             "width": 6,
             "height": 2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "Williams",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            }
+        ]
     },
     {
         "id": "57x104-zaccaria",
@@ -57,7 +82,16 @@
             "ypos": 5.3,
             "width": 6,
             "height": 2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "Zaccaria",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            }
+        ]
     },
     {
         "id": "57x154-gottlieb",
@@ -77,7 +111,16 @@
             "ypos": 5.3,
             "width": 6,
             "height": 2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "Gottlieb",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            }
+        ]
     },
     {
         "id": "75x138mm-sega",
@@ -97,7 +140,23 @@
             "ypos": 7.1,
             "width": 6,
             "height": 2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "Sega",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 3.12,
+                "height": 1.42
+            },
+            {
+                "name": "Stern",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 3.45,
+                "height": 1.31
+            }
+        ]
     },
     {
         "id": "75x140-stern-modern",
@@ -117,7 +176,16 @@
             "ypos": 7.1,
             "width": 6,
             "height": 2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "Stern",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            }
+        ]
     },
     {
         "id": "76x140-data-east-game-plan",
@@ -137,7 +205,28 @@
             "ypos": 7.1,
             "width": 6,
             "height": 2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "GamePlan",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            },{
+                "name": "Data East",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 3.32,
+                "height": 1.14
+            },{
+                "name": "Sega",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 3.12,
+                "height": 1.42
+            }
+        ]
     },
     {
         "id": "77x140-stern-classic",
@@ -157,7 +246,16 @@
             "ypos": 7.1,
             "width": 6,
             "height": 2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "Stern",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            }
+        ]
     },
     {
         "id": "83x140-ss-bally",
@@ -177,7 +275,16 @@
             "ypos": 7.1,
             "width": 6,
             "height": 2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "Bally",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            }
+        ]
     },
     {
         "id": "83x143-capcom",
@@ -197,7 +304,16 @@
             "ypos": 7.1,
             "width": 6,
             "height": 2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "Capcom",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            }
+        ]
     },
     {
         "id": "83x154-wms-jjp",
@@ -217,6 +333,33 @@
             "ypos": 7.8,
             "width": 10,
             "height": 4.2
-        }
+        },
+        "manufacturer": [
+            {
+                "name": "WA Pinball",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            },{
+                "name": "Williams",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            },{
+                "name": "Bally",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            },{
+                "name": "Jersey Jack",
+                "xpos": 1,
+                "ypos": 1.5,
+                "width": 1,
+                "height": 1
+            }
+        ]
     }
 ]
