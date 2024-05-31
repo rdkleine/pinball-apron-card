@@ -27,12 +27,13 @@
                 "height": 1.09
             },
             {
-                "name": "Williams",
-                "xpos": 1,
-                "ypos": 1.5,
-                "width": 1,
-                "height": 1
+                "name": "Midway",
+                "xpos": 2.9,
+                "ypos": 0.67,
+                "width": 2.07,
+                "height": 0.529
             }
+
         ]
     },
     {
@@ -57,10 +58,10 @@
         "manufacturer": [
             {
                 "name": "Williams",
-                "xpos": 1,
-                "ypos": 1.5,
-                "width": 1,
-                "height": 1
+                "xpos": 0.5,
+                "ypos": 1.85,
+                "width": 3,
+                "height": 0.62
             }
         ]
     },
@@ -86,10 +87,10 @@
         "manufacturer": [
             {
                 "name": "Zaccaria",
-                "xpos": 1,
-                "ypos": 1.5,
-                "width": 1,
-                "height": 1
+                "xpos": 0.5,
+                "ypos": 1.85,
+                "width": 3,
+                "height": 1.04
             }
         ]
     },
@@ -115,10 +116,10 @@
         "manufacturer": [
             {
                 "name": "Gottlieb",
-                "xpos": 1,
-                "ypos": 1.5,
-                "width": 1,
-                "height": 1
+                "xpos": 0.5,
+                "ypos": 1.85,
+                "width": 3,
+                "height": 0.639
             }
         ]
     },
@@ -144,15 +145,15 @@
         "manufacturer": [
             {
                 "name": "Sega",
-                "xpos": 1,
-                "ypos": 1.5,
+                "xpos": 0.5,
+                "ypos": 3.2,
                 "width": 3.12,
                 "height": 1.42
             },
             {
                 "name": "Stern",
-                "xpos": 1,
-                "ypos": 1.5,
+                "xpos": 0.5,
+                "ypos": 3.2,
                 "width": 3.45,
                 "height": 1.31
             }
@@ -180,10 +181,10 @@
         "manufacturer": [
             {
                 "name": "Stern",
-                "xpos": 1,
-                "ypos": 1.5,
-                "width": 1,
-                "height": 1
+                "xpos": 0.5,
+                "ypos": 3.2,
+                "width": 3.45,
+                "height": 1.31
             }
         ]
     },
@@ -215,14 +216,14 @@
                 "height": 1
             },{
                 "name": "Data East",
-                "xpos": 1,
-                "ypos": 1.5,
+                "xpos": 0.5,
+                "ypos": 3.3,
                 "width": 3.32,
                 "height": 1.14
             },{
                 "name": "Sega",
-                "xpos": 1,
-                "ypos": 1.5,
+                "xpos": 0.5,
+                "ypos": 3.3,
                 "width": 3.12,
                 "height": 1.42
             }
@@ -250,10 +251,10 @@
         "manufacturer": [
             {
                 "name": "Stern",
-                "xpos": 1,
-                "ypos": 1.5,
-                "width": 1,
-                "height": 1
+                "xpos": 0.5,
+                "ypos": 3.4,
+                "width": 3.45,
+                "height": 1.31
             }
         ]
     },
@@ -263,8 +264,8 @@
         "width": 14.0,
         "image": "83x140-ss-bally.png",
         "qr": {
-            "xpos": 9.8,
-            "ypos": 3.23,
+            "xpos": 9.5,
+            "ypos": 3.75,
             "width": 3.8,
             "height": 3.8
         },
@@ -272,17 +273,17 @@
             "template": "{manufacturer} {year} {tech}",
             "fontsize": 12,
             "xpos": 0.65,
-            "ypos": 7.1,
+            "ypos": 8,
             "width": 6,
             "height": 2
         },
         "manufacturer": [
             {
                 "name": "Bally",
-                "xpos": 1,
-                "ypos": 1.5,
-                "width": 1,
-                "height": 1
+                "xpos": 0.5,
+                "ypos": 3.5,
+                "width": 2.07,
+                "height": 1.09
             }
         ]
     },
@@ -293,7 +294,7 @@
         "image": "83x143-capcom.png",
         "qr": {
             "xpos": 9.8,
-            "ypos": 3.23,
+            "ypos": 3.75,
             "width": 3.8,
             "height": 3.8
         },
@@ -301,17 +302,17 @@
             "template": "{manufacturer} {year} {tech}",
             "fontsize": 12,
             "xpos": 0.65,
-            "ypos": 7.1,
+            "ypos": 8,
             "width": 6,
             "height": 2
         },
         "manufacturer": [
             {
                 "name": "Capcom",
-                "xpos": 1,
-                "ypos": 1.5,
-                "width": 1,
-                "height": 1
+                "xpos": 0.5,
+                "ypos": 3.5,
+                "width": 5,
+                "height": 0.915
             }
         ]
     },
